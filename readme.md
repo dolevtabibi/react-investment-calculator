@@ -14,11 +14,10 @@ This is a simple React application that calculates the future value of an invest
 [Link to live demo](https://dolevtabibi.github.io/react-investment-calculator/)
 
 ## Screenshots
+![Functional App](![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/2c6d08b0-c464-4e05-889d-aa54bbf9cdc8))
+![HandlingError](![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/6633b43b-5320-4257-ae5c-e350d5331bf7))
 
-![alt text](![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/62675b75-6f6b-4ca4-9a96-bb927e5c956b)
-)
-![alt text]![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/2fbcc8bf-5b1b-4161-b701-0f661ea940c1)
-)
+
 
 ## Installation
 
