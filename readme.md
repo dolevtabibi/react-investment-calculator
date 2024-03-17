@@ -14,9 +14,8 @@ This is a simple React application that calculates the future value of an invest
 [Link to live demo](https://dolevtabibi.github.io/react-investment-calculator/)
 
 ## Screenshots
-![Functional App](![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/2c6d08b0-c464-4e05-889d-aa54bbf9cdc8))
-![HandlingError](![image](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/6633b43b-5320-4257-ae5c-e350d5331bf7))
-
+![Functional App](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/2c6d08b0-c464-4e05-889d-aa54bbf9cdc8)
+![HandlingError](https://github.com/dolevtabibi/react-investment-calculator/assets/88586308/6633b43b-5320-4257-ae5c-e350d5331bf7)
 
 
 ## Installation
@@ -29,15 +28,15 @@ cd react-investment-calculator
 npm install
 npm run dev
 ```
-Usage
+## Usage
 Enter the initial investment amount, interest rate, and the number of years.
 Click on the calculate button to see the future value of the investment.
 Modify the input values as needed to see how they affect the future value.
 
-Technologies Used
+## Technologies Used
 React
 JavaScript (ES6+)
 HTML/CSS
 
-Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
