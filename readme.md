@@ -20,14 +20,27 @@ This is a simple React application that calculates the future value of an invest
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: Run the following command in your terminal to clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/react-investment-calculator.git
+```
+
+2. Clone the repository: Run the following command in your terminal to clone the repository to your local machine:
+
+```bash
 cd react-investment-calculator
+```
+3. Install dependencies: Use npm to install the project dependencies. This step will download and install all the required packages defined in the project's package.json file:
 npm install
+```
+
+4.Start the development server: After installing the dependencies, you can start the development server. This command will run your React application locally:
+
+```bash
 npm run dev
 ```
+
 ## Usage
 Enter the initial investment amount, interest rate, and the number of years.
 Click on the calculate button to see the future value of the investment.
