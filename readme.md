@@ -31,7 +31,10 @@ git clone https://github.com/your-username/react-investment-calculator.git
 ```bash
 cd react-investment-calculator
 ```
+
 3. Install dependencies: Use npm to install the project dependencies. This step will download and install all the required packages defined in the project's package.json file:
+
+```bash
 npm install
 ```
 
